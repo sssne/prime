@@ -1,5 +1,5 @@
 SRC = unity/unity.c\
-src/factorial.c\
+src/prime.c\
 test/test_factorial.c\
 main.c
 
